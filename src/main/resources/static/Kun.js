@@ -1,5 +1,6 @@
 
 function kjøp(){
+    //kjøpe
     let KundeX = {
         velgFilm: $("#velg").val(),
         antall: $("#antall").val(),
